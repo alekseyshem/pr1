@@ -12,3 +12,5 @@ let sdfsdfsa = qsdfas
 function qwerwq (){
     return "qwe"
 }
+
+const zxcv = qwerqw
