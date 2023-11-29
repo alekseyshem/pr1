@@ -7,3 +7,8 @@ function g () {
 }
 
 const dffdf = 13241234
+let sdfsdfsa = qsdfas
+
+function qwerwq (){
+    return "qwe"
+}
